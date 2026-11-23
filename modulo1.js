@@ -1,5 +1,5 @@
 // =============================================================================
-// FASE 1: CHILE EN LOS AÑOS 50 Y CRISIS DEL MODELO ISI (Preguntas 1 a 4)
+//  FASE 1: CHILE EN LOS AÑOS 50 Y CRISIS DEL MODELO ISI (Preguntas 1 a 4)
 // =============================================================================
 window.MODULO_1 = {
   id: "m1",
